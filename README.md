@@ -1,2 +1,6 @@
 # kitty
-My configure to Kitty
+
+This repository contains my personal settings used in the Kitty Terminal Emulator.
+
+
+
